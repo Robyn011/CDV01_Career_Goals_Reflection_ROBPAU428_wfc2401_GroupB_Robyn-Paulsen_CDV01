@@ -42,14 +42,19 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     - What values are important to you in a work environment?
 
-    1. I want a work environment that's not toxic and which allows me to be surrounded by like minded workers 
+    1. I want a work environment that's not toxic and which allows me to be surrounded by like minded workers that love helping one another such as a teamwork situation
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    1. Junior Software Developer
+     
     - Note any particular areas that piqued your interest.
+
+    1. I would love to work with higher ups such as Google or Opera to help better their websites
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
@@ -60,11 +65,22 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+
+    1. Finish with CodeSpace course and have a job as a Junior Develepor
+
     - Explain the rationale behind each goal.
+
+    1. By finishing the CodeSpace Software Develeper course and trying my hardest to achieve my best and do my best in my projects that I present
+
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+    Becoming a Senior Developer and hopefully work at bigger companies such as Google and more
+
     - Describe how these align with your interests and skills.
+
+    For my skills, I wo
 
 ### Part 4: Action Plan
 
@@ -86,6 +102,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+    1. I have opportunities such as the Career days an connect with other developers  and can network with other likeminded developers to
     - Include networking, mentorship, or educational opportunities.
 
 ### Submission
