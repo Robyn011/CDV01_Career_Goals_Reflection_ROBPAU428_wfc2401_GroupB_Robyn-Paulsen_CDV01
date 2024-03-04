@@ -76,34 +76,49 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-    Becoming a Senior Developer and hopefully work at bigger companies such as Google and more
+    Becoming a Senior Developer and hopefully work at bigger companies such as Google and many more
 
     - Describe how these align with your interests and skills.
+    
+    1. It aligns with my interests and skills because I can create Websites on Visual Studio Code which would help anyone who wants me to create a website for them or their company 
 
-    For my skills, I wo
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+    1. Completing my weekly assignments
     - Include any resources or support required.
+    1. Asking my coach and peers if I need help
+    2. Set a timeframe and a daily calender work time for the times I should do my projects and when I should rest
+    3. Using w3schools.com if I need any information that i still dont understand anything
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+    1. Have connectins and finish on top
     - Consider additional skills, experiences, or qualifications needed.
+    1. Software development qualification or pass
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+    1. Potential challenges would probably be meeting deadlines on time and finishing my work on time 
     - Consider strategies to overcome these challenges.
+
+    1. Have better time management and no procrastinations.
+
+
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
-    1. I have opportunities such as the Career days an connect with other developers  and can network with other likeminded developers to
     - Include networking, mentorship, or educational opportunities.
+   
+     1. I have opportunities such as the Career days an connect with other developers  and can network with other like-minded developers to get opportunities to work my way up the coding field
 
 ### Submission
 
